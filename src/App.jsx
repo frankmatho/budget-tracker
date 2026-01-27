@@ -1,11 +1,13 @@
 import { useState } from 'react'
 import './App.css'
+import Navbar from './components/navbar.jsx'
+import BalanceCard from './components/details.jsx'
 
 function App() {
   return (
-    <div>
-      <h1>Budget Tracker</h1>
-      <p>Track your expenses and income easily!</p>
+    <div className="min-h-screen bg-gray-100">
+      <Navbar />
+      <BalanceCard />
     </div>
   )
 }
