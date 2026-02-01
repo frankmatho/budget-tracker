@@ -22,9 +22,9 @@ Users can:
 - Building UI based on derived data
 
 ## Screenshots
-(Add screenshots here)
 
 ## Future Improvements
 - Save data to localStorage
 - User authentication
 - Monthly expense categories
+9uy0uigyf8ouggioul
